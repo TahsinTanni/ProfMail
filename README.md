@@ -77,16 +77,6 @@ Enter your research background + professor's lab URL
 
 ---
 
-## Author
-
-**Tahsin Tanni** — BSc CSE, BRAC University
-Research: LLM Security & Adversarial Robustness
-
-- Portfolio: [tahsintanni.github.io](https://tahsintanni.github.io)
-- GitHub: [@TahsinTanni](https://github.com/TahsinTanni)
-
----
-
 ## License
 
 MIT
