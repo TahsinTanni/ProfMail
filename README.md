@@ -16,13 +16,13 @@ Cold emails to professors get ignored when they're generic. Writing a genuinely 
 
 ## Features
 
-- 🔍 **Real-time lab scraping** via Firecrawl API — pulls publications and research themes directly from the professor's page
-- 🤖 **AI overlap analysis** — Gemini 1.5 Flash identifies specific connections between your background and the professor's work
-- 🎛️ **Tone & length controls** — toggle between Formal / Semi-formal and Short / Detailed
-- ✏️ **Editable workspace** — refine the output inline before sending
-- 🔄 **Regenerate on demand** — get a fresh draft without re-entering inputs
-- 📋 **One-click copy / download** — export as `.txt`
-- 🗂️ **Local email history** — stores your last 5 generated emails for quick reference
+-  **Real-time lab scraping** via Firecrawl API — pulls publications and research themes directly from the professor's page
+-  **AI overlap analysis** — Gemini 1.5 Flash identifies specific connections between your background and the professor's work
+-  **Tone & length controls** — toggle between Formal / Semi-formal and Short / Detailed
+-  **Editable workspace** — refine the output inline before sending
+-  **Regenerate on demand** — get a fresh draft without re-entering inputs
+-  **One-click copy / download** — export as `.txt`
+-  **Local email history** — stores your last 5 generated emails for quick reference
 
 ---
 
