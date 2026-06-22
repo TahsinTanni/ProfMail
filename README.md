@@ -56,8 +56,8 @@ VITE_FIRECRAWL_API_KEY=your_firecrawl_api_key
 
 | Key | Where to get it |
 |---|---|
-| `VITE_GROQ_API_KEY` | [console.groq.com](https://console.groq.com) → API Keys (free) |
-| `VITE_FIRECRAWL_API_KEY` | [firecrawl.dev](https://firecrawl.dev) → Dashboard |
+| `VITE_GROQ_API_KEY` | [console.groq.com](https://console.groq.com) 
+| `VITE_FIRECRAWL_API_KEY` | [firecrawl.dev](https://firecrawl.dev) 
 
 ---
 
